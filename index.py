@@ -1,1 +1,1 @@
-echo "hello kusum"
+print ("Kusum")
