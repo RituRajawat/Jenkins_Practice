@@ -1,2 +1,2 @@
 print ("Kusum")
-print ("Ritu Rajaway"
+echo "Ritu"
